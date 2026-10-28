@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2015" height="910" viewBox="0 0 2015 910">
+<rect width="100%" height="100%" fill="#101924"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#e3edf4;font-size:16px}.small{font-size:13px;fill:#9fb7c7}</style>
+<text x="50" y="48" style="font-size:30px;font-weight:700">SG_Dissolve</text>
+<text x="50" y="78" class="small">DIAGRAMA EXPORTADO DE LAS CONEXIONES REALES / No es una captura de la interfaz de Unity</text>
+<text x="50" y="103" class="small">11 nodos + Fragment | 14 conexiones | SHA256: cd786f9844b7efdd073f</text>
+<path d="M975,486 C1020,486 995,267 1040,267" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,540 C690,540 665,432 710,432" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,654 C360,654 335,513 380,513" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,792 C758.0999999999999,792 926.9000000000001,267 1370,267" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,378 C360,378 335,240 380,240" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,516 C360,516 335,486 380,486" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,516 C480.9,516 544.1,240 710,240" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M975,294 C1279.5,294 1395.5,402 1700,402" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M975,294 C1020,294 995,240 1040,240" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,240 C896.6999999999999,240 1118.3000000000002,240 1700,240" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M1305,294 C1350,294 1325,240 1370,240" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M1635,294 C1680,294 1655,348 1700,348" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,321 C690,321 665,459 710,459" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,321 C690,321 665,267 710,267" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<rect x="50" y="308" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="308" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="335" style="font-weight:600">UV</text>
+<circle cx="315" cy="378" r="5" fill="#66dfcc"/>
+<text x="64" y="383" class="small">Out  ></text>
+<rect x="380" y="170" width="265" height="201" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="197" style="font-weight:600">Voronoi</text>
+<circle cx="380" cy="240" r="5" fill="#66dfcc"/>
+<text x="394" y="245" class="small">UV</text>
+<circle cx="380" cy="267" r="5" fill="#66dfcc"/>
+<text x="394" y="272" class="small">AngleOffset = 2</text>
+<circle cx="380" cy="294" r="5" fill="#66dfcc"/>
+<text x="394" y="299" class="small">CellDensity = 9</text>
+<circle cx="645" cy="321" r="5" fill="#66dfcc"/>
+<text x="394" y="326" class="small">Out  ></text>
+<circle cx="645" cy="348" r="5" fill="#66dfcc"/>
+<text x="394" y="353" class="small">Cells  ></text>
+<rect x="50" y="446" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="446" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="473" style="font-weight:600">Dissolve Amount</text>
+<circle cx="315" cy="516" r="5" fill="#66dfcc"/>
+<text x="64" y="521" class="small">Dissolve Amount  ></text>
+<rect x="710" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="710" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="724" y="197" style="font-weight:600">Step</text>
+<circle cx="710" cy="240" r="5" fill="#66dfcc"/>
+<text x="724" y="245" class="small">Edge</text>
+<circle cx="710" cy="267" r="5" fill="#66dfcc"/>
+<text x="724" y="272" class="small">In</text>
+<circle cx="975" cy="294" r="5" fill="#66dfcc"/>
+<text x="724" y="299" class="small">Out  ></text>
+<rect x="50" y="584" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="584" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="611" style="font-weight:600">Edge Width</text>
+<circle cx="315" cy="654" r="5" fill="#66dfcc"/>
+<text x="64" y="659" class="small">Edge Width  ></text>
+<rect x="380" y="416" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="416" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="443" style="font-weight:600">Add</text>
+<circle cx="380" cy="486" r="5" fill="#66dfcc"/>
+<text x="394" y="491" class="small">A</text>
+<circle cx="380" cy="513" r="5" fill="#66dfcc"/>
+<text x="394" y="518" class="small">B</text>
+<circle cx="645" cy="540" r="5" fill="#66dfcc"/>
+<text x="394" y="545" class="small">Out  ></text>
+<rect x="710" y="362" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="710" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="724" y="389" style="font-weight:600">Step</text>
+<circle cx="710" cy="432" r="5" fill="#66dfcc"/>
+<text x="724" y="437" class="small">Edge</text>
+<circle cx="710" cy="459" r="5" fill="#66dfcc"/>
+<text x="724" y="464" class="small">In</text>
+<circle cx="975" cy="486" r="5" fill="#66dfcc"/>
+<text x="724" y="491" class="small">Out  ></text>
+<rect x="1040" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1040" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1054" y="197" style="font-weight:600">Subtract</text>
+<circle cx="1040" cy="240" r="5" fill="#66dfcc"/>
+<text x="1054" y="245" class="small">A</text>
+<circle cx="1040" cy="267" r="5" fill="#66dfcc"/>
+<text x="1054" y="272" class="small">B</text>
+<circle cx="1305" cy="294" r="5" fill="#66dfcc"/>
+<text x="1054" y="299" class="small">Out  ></text>
+<rect x="50" y="722" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="722" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="749" style="font-weight:600">Edge Color</text>
+<circle cx="315" cy="792" r="5" fill="#66dfcc"/>
+<text x="64" y="797" class="small">Edge Color  ></text>
+<rect x="50" y="170" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="170" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="197" style="font-weight:600">Base Color</text>
+<circle cx="315" cy="240" r="5" fill="#66dfcc"/>
+<text x="64" y="245" class="small">Base Color  ></text>
+<rect x="1370" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1370" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1384" y="197" style="font-weight:600">Multiply</text>
+<circle cx="1370" cy="240" r="5" fill="#66dfcc"/>
+<text x="1384" y="245" class="small">A</text>
+<circle cx="1370" cy="267" r="5" fill="#66dfcc"/>
+<text x="1384" y="272" class="small">B</text>
+<circle cx="1635" cy="294" r="5" fill="#66dfcc"/>
+<text x="1384" y="299" class="small">Out  ></text>
+<rect x="1700" y="170" width="265" height="282" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1700" y="170" width="265" height="40" rx="8" fill="#263f62"/>
+<text x="1714" y="197" style="font-weight:600">Fragment / Master Stack</text>
+<circle cx="1700" cy="240" r="5" fill="#66dfcc"/>
+<text x="1714" y="245" class="small">BaseColor</text>
+<circle cx="1700" cy="267" r="5" fill="#66dfcc"/>
+<text x="1714" y="272" class="small">NormalTS</text>
+<circle cx="1700" cy="294" r="5" fill="#66dfcc"/>
+<text x="1714" y="299" class="small">Metallic = 0</text>
+<circle cx="1700" cy="321" r="5" fill="#66dfcc"/>
+<text x="1714" y="326" class="small">Smoothness = 0.6</text>
+<circle cx="1700" cy="348" r="5" fill="#66dfcc"/>
+<text x="1714" y="353" class="small">Emission</text>
+<circle cx="1700" cy="375" r="5" fill="#66dfcc"/>
+<text x="1714" y="380" class="small">Occlusion = 1</text>
+<circle cx="1700" cy="402" r="5" fill="#66dfcc"/>
+<text x="1714" y="407" class="small">Alpha = 1</text>
+<circle cx="1700" cy="429" r="5" fill="#66dfcc"/>
+<text x="1714" y="434" class="small">AlphaClipThreshold = 0.5</text>
+<text x="50" y="882" class="small">Fuente: Assets/_MyShaders/Level1/SG_Dissolve.shadergraph</text></svg>

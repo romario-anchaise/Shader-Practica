@@ -1,0 +1,16 @@
+VALIDACION — 27 de octubre de 2026
+
+Correcto: los seis Shader Graphs se importaron y compilaron en el proyecto.
+Correcto: 34 renderers de ShaderShowcase tienen materiales y shaders compatibles.
+Correcto: existe un solo AudioListener y el portal es una instancia del prefab TideGate, con destino asignado.
+Correcto en Play: Dissolve Amount cambia con el tiempo y el objeto de muestra gira.
+Correcto en Play: Readiness cambia la propiedad enviada al shader.
+Correcto en Play: atravesar el portal inactivo no teletransporta.
+Correcto en Play: atravesar el portal activo lleva al visitante al destino configurado.
+Correcto: se renderizaron 24 fotogramas diferentes del material original para el GIF.
+Correcto: la compilacion final de C# y la verificacion de referencias terminaron con codigo 0.
+
+La importacion de los grafos y las siete vistas se realizaron en el proyecto principal.
+La prueba automatizada de Play se ejecuto en una copia aislada con los mismos assets y referencias .meta.
+Los diagramas SVG/PNG se exportan de las conexiones reales; no son capturas de la interfaz de Unity.
+Quedan pendientes las capturas directas del editor. Repositorio de entrega: https://github.com/romario-anchaise/Shader-Practica; rama de trabajo: feature/Shaders.

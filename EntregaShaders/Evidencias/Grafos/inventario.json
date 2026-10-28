@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SG_Dissolve",
+    "properties": 4,
+    "nodes": 11,
+    "edges": 14
+  },
+  {
+    "name": "SG_PulseGlow",
+    "properties": 2,
+    "nodes": 7,
+    "edges": 8
+  },
+  {
+    "name": "SG_Water",
+    "properties": 2,
+    "nodes": 8,
+    "edges": 9
+  },
+  {
+    "name": "SG_ForceField",
+    "properties": 5,
+    "nodes": 21,
+    "edges": 22
+  },
+  {
+    "name": "SG_Hologram",
+    "properties": 8,
+    "nodes": 28,
+    "edges": 30
+  },
+  {
+    "name": "SG_TideGate",
+    "properties": 8,
+    "nodes": 37,
+    "edges": 41
+  }
+]

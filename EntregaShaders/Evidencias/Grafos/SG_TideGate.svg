@@ -1,0 +1,368 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3665" height="2560" viewBox="0 0 3665 2560">
+<rect width="100%" height="100%" fill="#101924"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#e3edf4;font-size:16px}.small{font-size:13px;fill:#9fb7c7}</style>
+<text x="50" y="48" style="font-size:30px;font-weight:700">SG_TideGate</text>
+<text x="50" y="78" class="small">DIAGRAMA EXPORTADO DE LAS CONEXIONES REALES / No es una captura de la interfaz de Unity</text>
+<text x="50" y="103" class="small">37 nodos + Fragment | 41 conexiones | SHA256: 8823bd5a88951d12c9d3</text>
+<path d="M315,2166 C1451.1,2166 1883.9,459 3020,459" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,2304 C360,2304 335,1035 380,1035" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,2001 C1312.5,2001 1692.5,459 2690,459" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,1119 C896.6999999999999,1119 1118.3000000000002,432 1700,432" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M1965,513 C2010,513 1985,240 2030,240" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,678 C690,678 665,678 710,678" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,2442 C360,2442 335,1062 380,1062" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M2625,294 C2670,294 2645,240 2690,240" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M3285,294 C3330,294 3305,348 3350,348" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,1560 C360,1560 335,651 380,651" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,708 C360,708 335,624 380,624" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,708 C360,708 335,240 380,240" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,708 C360,708 335,432 380,432" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,570 C896.6999999999999,570 1118.3000000000002,267 1700,267" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M975,705 C1020,705 995,651 1040,651" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M2295,294 C2340,294 2315,240 2360,240" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M2295,294 C2340,294 2315,432 2360,432" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M975,486 C1020,486 995,459 1040,459" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,405 C758.0999999999999,405 926.9000000000001,267 1370,267" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,897 C1226.6999999999998,897 1448.3000000000002,267 2030,267" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M975,267 C1020,267 995,240 1040,240" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M2955,486 C3000,486 2975,432 3020,432" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M1305,321 C1350,321 1325,240 1370,240" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,954 C360,954 335,459 380,459" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,294 C690,294 665,240 710,240" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,1698 C360,1698 335,1089 380,1089" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M1635,486 C1680,486 1655,486 1700,486" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,1284 C896.6999999999999,1284 1118.3000000000002,459 1700,459" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,240 C360,240 335,267 380,267" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M1305,705 C1350,705 1325,459 1370,459" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M2625,459 C2670,459 2645,432 2690,432" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,1422 C1312.5,1422 1692.5,267 2690,267" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,1836 C360,1836 335,870 380,870" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M2955,294 C3000,294 2975,240 3020,240" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,1116 C1781.1,1116 2213.9,240 3350,240" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,1116 C1642.5,1116 2022.5,267 3020,267" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M3285,486 C3330,486 3305,402 3350,402" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M1305,513 C1350,513 1325,432 1370,432" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M1965,294 C2130.9,294 2194.1,267 2360,267" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M1635,294 C1680,294 1655,240 1700,240" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,486 C690,486 665,459 710,459" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<rect x="50" y="638" width="265" height="201" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="638" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="665" style="font-weight:600">Time</text>
+<circle cx="315" cy="708" r="5" fill="#66dfcc"/>
+<text x="64" y="713" class="small">Time  ></text>
+<circle cx="315" cy="735" r="5" fill="#66dfcc"/>
+<text x="64" y="740" class="small">Sine Time  ></text>
+<circle cx="315" cy="762" r="5" fill="#66dfcc"/>
+<text x="64" y="767" class="small">Cosine Time  ></text>
+<circle cx="315" cy="789" r="5" fill="#66dfcc"/>
+<text x="64" y="794" class="small">Delta Time  ></text>
+<circle cx="315" cy="816" r="5" fill="#66dfcc"/>
+<text x="64" y="821" class="small">Smooth Delta  ></text>
+<rect x="50" y="884" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="884" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="911" style="font-weight:600">Tide Speed</text>
+<circle cx="315" cy="954" r="5" fill="#66dfcc"/>
+<text x="64" y="959" class="small">Tide Speed  ></text>
+<rect x="380" y="362" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="389" style="font-weight:600">Multiply</text>
+<circle cx="380" cy="432" r="5" fill="#66dfcc"/>
+<text x="394" y="437" class="small">A</text>
+<circle cx="380" cy="459" r="5" fill="#66dfcc"/>
+<text x="394" y="464" class="small">B</text>
+<circle cx="645" cy="486" r="5" fill="#66dfcc"/>
+<text x="394" y="491" class="small">Out  ></text>
+<rect x="710" y="335" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="710" y="335" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="724" y="362" style="font-weight:600">Tiling And Offset</text>
+<circle cx="710" cy="405" r="5" fill="#66dfcc"/>
+<text x="724" y="410" class="small">UV</text>
+<circle cx="710" cy="432" r="5" fill="#66dfcc"/>
+<text x="724" y="437" class="small">Tiling</text>
+<circle cx="710" cy="459" r="5" fill="#66dfcc"/>
+<text x="724" y="464" class="small">Offset</text>
+<circle cx="975" cy="486" r="5" fill="#66dfcc"/>
+<text x="724" y="491" class="small">Out  ></text>
+<rect x="1040" y="389" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1040" y="389" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1054" y="416" style="font-weight:600">Simple Noise</text>
+<circle cx="1040" cy="459" r="5" fill="#66dfcc"/>
+<text x="1054" y="464" class="small">UV</text>
+<circle cx="1040" cy="486" r="5" fill="#66dfcc"/>
+<text x="1054" y="491" class="small">Scale = 11</text>
+<circle cx="1305" cy="513" r="5" fill="#66dfcc"/>
+<text x="1054" y="518" class="small">Out  ></text>
+<rect x="50" y="1490" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1490" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="1517" style="font-weight:600">Counterflow</text>
+<circle cx="315" cy="1560" r="5" fill="#66dfcc"/>
+<text x="64" y="1565" class="small">Counterflow  ></text>
+<rect x="380" y="554" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="554" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="581" style="font-weight:600">Multiply</text>
+<circle cx="380" cy="624" r="5" fill="#66dfcc"/>
+<text x="394" y="629" class="small">A</text>
+<circle cx="380" cy="651" r="5" fill="#66dfcc"/>
+<text x="394" y="656" class="small">B</text>
+<circle cx="645" cy="678" r="5" fill="#66dfcc"/>
+<text x="394" y="683" class="small">Out  ></text>
+<rect x="710" y="554" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="710" y="554" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="724" y="581" style="font-weight:600">Tiling And Offset</text>
+<circle cx="710" cy="624" r="5" fill="#66dfcc"/>
+<text x="724" y="629" class="small">UV</text>
+<circle cx="710" cy="651" r="5" fill="#66dfcc"/>
+<text x="724" y="656" class="small">Tiling</text>
+<circle cx="710" cy="678" r="5" fill="#66dfcc"/>
+<text x="724" y="683" class="small">Offset</text>
+<circle cx="975" cy="705" r="5" fill="#66dfcc"/>
+<text x="724" y="710" class="small">Out  ></text>
+<rect x="1040" y="581" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1040" y="581" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1054" y="608" style="font-weight:600">Simple Noise</text>
+<circle cx="1040" cy="651" r="5" fill="#66dfcc"/>
+<text x="1054" y="656" class="small">UV</text>
+<circle cx="1040" cy="678" r="5" fill="#66dfcc"/>
+<text x="1054" y="683" class="small">Scale = 19</text>
+<circle cx="1305" cy="705" r="5" fill="#66dfcc"/>
+<text x="1054" y="710" class="small">Out  ></text>
+<rect x="1370" y="362" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1370" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1384" y="389" style="font-weight:600">Multiply</text>
+<circle cx="1370" cy="432" r="5" fill="#66dfcc"/>
+<text x="1384" y="437" class="small">A</text>
+<circle cx="1370" cy="459" r="5" fill="#66dfcc"/>
+<text x="1384" y="464" class="small">B</text>
+<circle cx="1635" cy="486" r="5" fill="#66dfcc"/>
+<text x="1384" y="491" class="small">Out  ></text>
+<rect x="1700" y="362" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1700" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1714" y="389" style="font-weight:600">Smoothstep</text>
+<circle cx="1700" cy="432" r="5" fill="#66dfcc"/>
+<text x="1714" y="437" class="small">Edge1</text>
+<circle cx="1700" cy="459" r="5" fill="#66dfcc"/>
+<text x="1714" y="464" class="small">Edge2</text>
+<circle cx="1700" cy="486" r="5" fill="#66dfcc"/>
+<text x="1714" y="491" class="small">In</text>
+<circle cx="1965" cy="513" r="5" fill="#66dfcc"/>
+<text x="1714" y="518" class="small">Out  ></text>
+<rect x="50" y="1022" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1022" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="1049" style="font-weight:600">Float</text>
+<circle cx="50" cy="1092" r="5" fill="#66dfcc"/>
+<text x="64" y="1097" class="small">X = 0.15</text>
+<circle cx="315" cy="1119" r="5" fill="#66dfcc"/>
+<text x="64" y="1124" class="small">Out  ></text>
+<rect x="50" y="1187" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1187" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="1214" style="font-weight:600">Float</text>
+<circle cx="50" cy="1257" r="5" fill="#66dfcc"/>
+<text x="64" y="1262" class="small">X = 0.32</text>
+<circle cx="315" cy="1284" r="5" fill="#66dfcc"/>
+<text x="64" y="1289" class="small">Out  ></text>
+<rect x="50" y="1766" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1766" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="1793" style="font-weight:600">Rim Power</text>
+<circle cx="315" cy="1836" r="5" fill="#66dfcc"/>
+<text x="64" y="1841" class="small">Rim Power  ></text>
+<rect x="380" y="746" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="746" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="773" style="font-weight:600">Fresnel Effect</text>
+<circle cx="380" cy="816" r="5" fill="#66dfcc"/>
+<text x="394" y="821" class="small">Normal</text>
+<circle cx="380" cy="843" r="5" fill="#66dfcc"/>
+<text x="394" y="848" class="small">View Dir</text>
+<circle cx="380" cy="870" r="5" fill="#66dfcc"/>
+<text x="394" y="875" class="small">Power = 1</text>
+<circle cx="645" cy="897" r="5" fill="#66dfcc"/>
+<text x="394" y="902" class="small">Out  ></text>
+<rect x="2030" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="2030" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="2044" y="197" style="font-weight:600">Add</text>
+<circle cx="2030" cy="240" r="5" fill="#66dfcc"/>
+<text x="2044" y="245" class="small">A</text>
+<circle cx="2030" cy="267" r="5" fill="#66dfcc"/>
+<text x="2044" y="272" class="small">B</text>
+<circle cx="2295" cy="294" r="5" fill="#66dfcc"/>
+<text x="2044" y="299" class="small">Out  ></text>
+<rect x="50" y="170" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="170" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="197" style="font-weight:600">Pulse Speed</text>
+<circle cx="315" cy="240" r="5" fill="#66dfcc"/>
+<text x="64" y="245" class="small">Pulse Speed  ></text>
+<rect x="380" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="197" style="font-weight:600">Multiply</text>
+<circle cx="380" cy="240" r="5" fill="#66dfcc"/>
+<text x="394" y="245" class="small">A</text>
+<circle cx="380" cy="267" r="5" fill="#66dfcc"/>
+<text x="394" y="272" class="small">B</text>
+<circle cx="645" cy="294" r="5" fill="#66dfcc"/>
+<text x="394" y="299" class="small">Out  ></text>
+<rect x="710" y="170" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="710" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="724" y="197" style="font-weight:600">Sine</text>
+<circle cx="710" cy="240" r="5" fill="#66dfcc"/>
+<text x="724" y="245" class="small">In</text>
+<circle cx="975" cy="267" r="5" fill="#66dfcc"/>
+<text x="724" y="272" class="small">Out  ></text>
+<rect x="1040" y="170" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1040" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1054" y="197" style="font-weight:600">Remap</text>
+<circle cx="1040" cy="240" r="5" fill="#66dfcc"/>
+<text x="1054" y="245" class="small">In</text>
+<circle cx="1040" cy="267" r="5" fill="#66dfcc"/>
+<text x="1054" y="272" class="small">In Min Max</text>
+<circle cx="1040" cy="294" r="5" fill="#66dfcc"/>
+<text x="1054" y="299" class="small">Out Min Max</text>
+<circle cx="1305" cy="321" r="5" fill="#66dfcc"/>
+<text x="1054" y="326" class="small">Out  ></text>
+<rect x="50" y="308" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="308" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="335" style="font-weight:600">Float</text>
+<circle cx="50" cy="378" r="5" fill="#66dfcc"/>
+<text x="64" y="383" class="small">X = 0.35</text>
+<circle cx="315" cy="405" r="5" fill="#66dfcc"/>
+<text x="64" y="410" class="small">Out  ></text>
+<rect x="1370" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1370" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1384" y="197" style="font-weight:600">Multiply</text>
+<circle cx="1370" cy="240" r="5" fill="#66dfcc"/>
+<text x="1384" y="245" class="small">A</text>
+<circle cx="1370" cy="267" r="5" fill="#66dfcc"/>
+<text x="1384" y="272" class="small">B</text>
+<circle cx="1635" cy="294" r="5" fill="#66dfcc"/>
+<text x="1384" y="299" class="small">Out  ></text>
+<rect x="50" y="473" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="473" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="500" style="font-weight:600">Float</text>
+<circle cx="50" cy="543" r="5" fill="#66dfcc"/>
+<text x="64" y="548" class="small">X = 0.65</text>
+<circle cx="315" cy="570" r="5" fill="#66dfcc"/>
+<text x="64" y="575" class="small">Out  ></text>
+<rect x="1700" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1700" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1714" y="197" style="font-weight:600">Add</text>
+<circle cx="1700" cy="240" r="5" fill="#66dfcc"/>
+<text x="1714" y="245" class="small">A</text>
+<circle cx="1700" cy="267" r="5" fill="#66dfcc"/>
+<text x="1714" y="272" class="small">B</text>
+<circle cx="1965" cy="294" r="5" fill="#66dfcc"/>
+<text x="1714" y="299" class="small">Out  ></text>
+<rect x="2360" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="2360" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="2374" y="197" style="font-weight:600">Multiply</text>
+<circle cx="2360" cy="240" r="5" fill="#66dfcc"/>
+<text x="2374" y="245" class="small">A</text>
+<circle cx="2360" cy="267" r="5" fill="#66dfcc"/>
+<text x="2374" y="272" class="small">B</text>
+<circle cx="2625" cy="294" r="5" fill="#66dfcc"/>
+<text x="2374" y="299" class="small">Out  ></text>
+<rect x="50" y="1628" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1628" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="1655" style="font-weight:600">Readiness</text>
+<circle cx="315" cy="1698" r="5" fill="#66dfcc"/>
+<text x="64" y="1703" class="small">Readiness  ></text>
+<rect x="50" y="2234" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="2234" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="2261" style="font-weight:600">Dormant Color</text>
+<circle cx="315" cy="2304" r="5" fill="#66dfcc"/>
+<text x="64" y="2309" class="small">Dormant Color  ></text>
+<rect x="50" y="2372" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="2372" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="2399" style="font-weight:600">Active Color</text>
+<circle cx="315" cy="2442" r="5" fill="#66dfcc"/>
+<text x="64" y="2447" class="small">Active Color  ></text>
+<rect x="380" y="965" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="965" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="992" style="font-weight:600">Lerp</text>
+<circle cx="380" cy="1035" r="5" fill="#66dfcc"/>
+<text x="394" y="1040" class="small">A</text>
+<circle cx="380" cy="1062" r="5" fill="#66dfcc"/>
+<text x="394" y="1067" class="small">B</text>
+<circle cx="380" cy="1089" r="5" fill="#66dfcc"/>
+<text x="394" y="1094" class="small">T</text>
+<circle cx="645" cy="1116" r="5" fill="#66dfcc"/>
+<text x="394" y="1121" class="small">Out  ></text>
+<rect x="50" y="1352" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1352" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="1379" style="font-weight:600">Energy</text>
+<circle cx="315" cy="1422" r="5" fill="#66dfcc"/>
+<text x="64" y="1427" class="small">Energy  ></text>
+<rect x="2690" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="2690" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="2704" y="197" style="font-weight:600">Multiply</text>
+<circle cx="2690" cy="240" r="5" fill="#66dfcc"/>
+<text x="2704" y="245" class="small">A</text>
+<circle cx="2690" cy="267" r="5" fill="#66dfcc"/>
+<text x="2704" y="272" class="small">B</text>
+<circle cx="2955" cy="294" r="5" fill="#66dfcc"/>
+<text x="2704" y="299" class="small">Out  ></text>
+<rect x="3020" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="3020" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="3034" y="197" style="font-weight:600">Multiply</text>
+<circle cx="3020" cy="240" r="5" fill="#66dfcc"/>
+<text x="3034" y="245" class="small">A</text>
+<circle cx="3020" cy="267" r="5" fill="#66dfcc"/>
+<text x="3034" y="272" class="small">B</text>
+<circle cx="3285" cy="294" r="5" fill="#66dfcc"/>
+<text x="3034" y="299" class="small">Out  ></text>
+<rect x="2360" y="362" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="2360" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="2374" y="389" style="font-weight:600">Saturate</text>
+<circle cx="2360" cy="432" r="5" fill="#66dfcc"/>
+<text x="2374" y="437" class="small">In</text>
+<circle cx="2625" cy="459" r="5" fill="#66dfcc"/>
+<text x="2374" y="464" class="small">Out  ></text>
+<rect x="50" y="1904" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="1904" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="1931" style="font-weight:600">Float</text>
+<circle cx="50" cy="1974" r="5" fill="#66dfcc"/>
+<text x="64" y="1979" class="small">X = 0.45</text>
+<circle cx="315" cy="2001" r="5" fill="#66dfcc"/>
+<text x="64" y="2006" class="small">Out  ></text>
+<rect x="2690" y="362" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="2690" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="2704" y="389" style="font-weight:600">Multiply</text>
+<circle cx="2690" cy="432" r="5" fill="#66dfcc"/>
+<text x="2704" y="437" class="small">A</text>
+<circle cx="2690" cy="459" r="5" fill="#66dfcc"/>
+<text x="2704" y="464" class="small">B</text>
+<circle cx="2955" cy="486" r="5" fill="#66dfcc"/>
+<text x="2704" y="491" class="small">Out  ></text>
+<rect x="50" y="2069" width="265" height="120" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="2069" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="2096" style="font-weight:600">Float</text>
+<circle cx="50" cy="2139" r="5" fill="#66dfcc"/>
+<text x="64" y="2144" class="small">X = 0.18</text>
+<circle cx="315" cy="2166" r="5" fill="#66dfcc"/>
+<text x="64" y="2171" class="small">Out  ></text>
+<rect x="3020" y="362" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="3020" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="3034" y="389" style="font-weight:600">Add</text>
+<circle cx="3020" cy="432" r="5" fill="#66dfcc"/>
+<text x="3034" y="437" class="small">A</text>
+<circle cx="3020" cy="459" r="5" fill="#66dfcc"/>
+<text x="3034" y="464" class="small">B</text>
+<circle cx="3285" cy="486" r="5" fill="#66dfcc"/>
+<text x="3034" y="491" class="small">Out  ></text>
+<rect x="3350" y="170" width="265" height="282" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="3350" y="170" width="265" height="40" rx="8" fill="#263f62"/>
+<text x="3364" y="197" style="font-weight:600">Fragment / Master Stack</text>
+<circle cx="3350" cy="240" r="5" fill="#66dfcc"/>
+<text x="3364" y="245" class="small">BaseColor</text>
+<circle cx="3350" cy="267" r="5" fill="#66dfcc"/>
+<text x="3364" y="272" class="small">NormalTS</text>
+<circle cx="3350" cy="294" r="5" fill="#66dfcc"/>
+<text x="3364" y="299" class="small">Metallic = 0</text>
+<circle cx="3350" cy="321" r="5" fill="#66dfcc"/>
+<text x="3364" y="326" class="small">Smoothness = 0.85</text>
+<circle cx="3350" cy="348" r="5" fill="#66dfcc"/>
+<text x="3364" y="353" class="small">Emission</text>
+<circle cx="3350" cy="375" r="5" fill="#66dfcc"/>
+<text x="3364" y="380" class="small">Occlusion = 1</text>
+<circle cx="3350" cy="402" r="5" fill="#66dfcc"/>
+<text x="3364" y="407" class="small">Alpha = 1</text>
+<circle cx="3350" cy="429" r="5" fill="#66dfcc"/>
+<text x="3364" y="434" class="small">AlphaClipThreshold = 0.5</text>
+<text x="50" y="2532" class="small">Fuente: Assets/_MyShaders/Level3/SG_TideGate.shadergraph</text></svg>

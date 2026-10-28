@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2015" height="742" viewBox="0 0 2015 742">
+<rect width="100%" height="100%" fill="#101924"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#e3edf4;font-size:16px}.small{font-size:13px;fill:#9fb7c7}</style>
+<text x="50" y="48" style="font-size:30px;font-weight:700">SG_Water</text>
+<text x="50" y="78" class="small">DIAGRAMA EXPORTADO DE LAS CONEXIONES REALES / No es una captura de la interfaz de Unity</text>
+<text x="50" y="103" class="small">8 nodos + Fragment | 9 conexiones | SHA256: 44d7a8f764a1ef0fcb20</text>
+<path d="M315,486 C360,486 335,267 380,267" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M1635,294 C1680,294 1655,267 1700,267" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M975,321 C1020,321 995,240 1040,240" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,240 C360,240 335,240 380,240" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,294 C690,294 665,294 710,294" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<path d="M645,540 C1088.1,540 1256.9,402 1700,402" fill="none" stroke="#6ab4f5" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,624 C896.6999999999999,624 1118.3000000000002,240 1700,240" fill="none" stroke="#c5a0ed" stroke-width="2.5" opacity="0.8"/>
+<path d="M315,624 C360,624 335,432 380,432" fill="none" stroke="#efbb6c" stroke-width="2.5" opacity="0.8"/>
+<path d="M1305,294 C1350,294 1325,240 1370,240" fill="none" stroke="#4bd5c4" stroke-width="2.5" opacity="0.8"/>
+<rect x="50" y="170" width="265" height="201" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="64" y="197" style="font-weight:600">Time</text>
+<circle cx="315" cy="240" r="5" fill="#66dfcc"/>
+<text x="64" y="245" class="small">Time  ></text>
+<circle cx="315" cy="267" r="5" fill="#66dfcc"/>
+<text x="64" y="272" class="small">Sine Time  ></text>
+<circle cx="315" cy="294" r="5" fill="#66dfcc"/>
+<text x="64" y="299" class="small">Cosine Time  ></text>
+<circle cx="315" cy="321" r="5" fill="#66dfcc"/>
+<text x="64" y="326" class="small">Delta Time  ></text>
+<circle cx="315" cy="348" r="5" fill="#66dfcc"/>
+<text x="64" y="353" class="small">Smooth Delta  ></text>
+<rect x="50" y="416" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="416" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="443" style="font-weight:600">Flow Speed</text>
+<circle cx="315" cy="486" r="5" fill="#66dfcc"/>
+<text x="64" y="491" class="small">Flow Speed  ></text>
+<rect x="380" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="197" style="font-weight:600">Multiply</text>
+<circle cx="380" cy="240" r="5" fill="#66dfcc"/>
+<text x="394" y="245" class="small">A</text>
+<circle cx="380" cy="267" r="5" fill="#66dfcc"/>
+<text x="394" y="272" class="small">B</text>
+<circle cx="645" cy="294" r="5" fill="#66dfcc"/>
+<text x="394" y="299" class="small">Out  ></text>
+<rect x="710" y="170" width="265" height="174" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="710" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="724" y="197" style="font-weight:600">Tiling And Offset</text>
+<circle cx="710" cy="240" r="5" fill="#66dfcc"/>
+<text x="724" y="245" class="small">UV</text>
+<circle cx="710" cy="267" r="5" fill="#66dfcc"/>
+<text x="724" y="272" class="small">Tiling</text>
+<circle cx="710" cy="294" r="5" fill="#66dfcc"/>
+<text x="724" y="299" class="small">Offset</text>
+<circle cx="975" cy="321" r="5" fill="#66dfcc"/>
+<text x="724" y="326" class="small">Out  ></text>
+<rect x="1040" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1040" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1054" y="197" style="font-weight:600">Gradient Noise</text>
+<circle cx="1040" cy="240" r="5" fill="#66dfcc"/>
+<text x="1054" y="245" class="small">UV</text>
+<circle cx="1040" cy="267" r="5" fill="#66dfcc"/>
+<text x="1054" y="272" class="small">Scale = 10</text>
+<circle cx="1305" cy="294" r="5" fill="#66dfcc"/>
+<text x="1054" y="299" class="small">Out  ></text>
+<rect x="1370" y="170" width="265" height="147" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1370" y="170" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="1384" y="197" style="font-weight:600">Normal From Height</text>
+<circle cx="1370" cy="240" r="5" fill="#66dfcc"/>
+<text x="1384" y="245" class="small">In = 0</text>
+<circle cx="1370" cy="267" r="5" fill="#66dfcc"/>
+<text x="1384" y="272" class="small">Strength = 0.35</text>
+<circle cx="1635" cy="294" r="5" fill="#66dfcc"/>
+<text x="1384" y="299" class="small">Out  ></text>
+<rect x="50" y="554" width="265" height="93" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="50" y="554" width="265" height="40" rx="8" fill="#174c50"/>
+<text x="64" y="581" style="font-weight:600">Water Tint</text>
+<circle cx="315" cy="624" r="5" fill="#66dfcc"/>
+<text x="64" y="629" class="small">Water Tint  ></text>
+<rect x="380" y="362" width="265" height="201" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="380" y="362" width="265" height="40" rx="8" fill="#2d3b4d"/>
+<text x="394" y="389" style="font-weight:600">Split</text>
+<circle cx="380" cy="432" r="5" fill="#66dfcc"/>
+<text x="394" y="437" class="small">In</text>
+<circle cx="645" cy="459" r="5" fill="#66dfcc"/>
+<text x="394" y="464" class="small">R  ></text>
+<circle cx="645" cy="486" r="5" fill="#66dfcc"/>
+<text x="394" y="491" class="small">G  ></text>
+<circle cx="645" cy="513" r="5" fill="#66dfcc"/>
+<text x="394" y="518" class="small">B  ></text>
+<circle cx="645" cy="540" r="5" fill="#66dfcc"/>
+<text x="394" y="545" class="small">A  ></text>
+<rect x="1700" y="170" width="265" height="255" rx="8" fill="#1c2938" stroke="#486174"/>
+<rect x="1700" y="170" width="265" height="40" rx="8" fill="#263f62"/>
+<text x="1714" y="197" style="font-weight:600">Fragment / Master Stack</text>
+<circle cx="1700" cy="240" r="5" fill="#66dfcc"/>
+<text x="1714" y="245" class="small">BaseColor</text>
+<circle cx="1700" cy="267" r="5" fill="#66dfcc"/>
+<text x="1714" y="272" class="small">NormalTS</text>
+<circle cx="1700" cy="294" r="5" fill="#66dfcc"/>
+<text x="1714" y="299" class="small">Metallic = 0</text>
+<circle cx="1700" cy="321" r="5" fill="#66dfcc"/>
+<text x="1714" y="326" class="small">Smoothness = 0.9</text>
+<circle cx="1700" cy="348" r="5" fill="#66dfcc"/>
+<text x="1714" y="353" class="small">Emission</text>
+<circle cx="1700" cy="375" r="5" fill="#66dfcc"/>
+<text x="1714" y="380" class="small">Occlusion = 1</text>
+<circle cx="1700" cy="402" r="5" fill="#66dfcc"/>
+<text x="1714" y="407" class="small">Alpha = 1</text>
+<text x="50" y="714" class="small">Fuente: Assets/_MyShaders/Level1/Water/SG_Water.shadergraph</text></svg>
